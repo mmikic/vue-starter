@@ -1,0 +1,20 @@
+{
+  "name": "mmikic-vue-template",
+  "version": "1.0.0",
+  "description": "My starter setup for developing Vue applications using single file components",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Mario Mikic",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "css-loader": "^0.28.0",
+    "vue": "^2.2.6",
+    "vue-loader": "^11.3.4",
+    "vue-template-compiler": "^2.2.6",
+    "webpack": "^2.3.3"
+  }
+}
